@@ -1,2 +1,2 @@
-# tychosium
+# Tychosium
 Our Geoaxial Binary System
